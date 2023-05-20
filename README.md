@@ -15,7 +15,7 @@
 </div>
 
 <h1>
-  Hey there, I am Aliyu Kabir, A flutter Android Developer
+  Hey there, I am Aliyu Kabir,I am a Software Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -23,14 +23,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ### :man_technologist: About Me :
-- :telescope: Currently looking for a Mobile developer role.
+- :telescope: Open for Mobile App Development.
 
-- :seedling: Learning new Stuff.
+- :seedling: Learning new Stuff and Enjoying life.
 
 - :zap: In my free time, I watch movies, read, watch documentaries, take a walk.
 
-
-
+### Technologies I Work With:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
