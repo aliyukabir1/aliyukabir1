@@ -22,7 +22,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### :man_technologist: About Me :
+<H1>:man_technologist: About Me :<H1>
+
 - :telescope: Open for Mobile App Development.
 
 - :seedling: Learning new Stuff and Enjoying life.
